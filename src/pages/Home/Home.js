@@ -16,7 +16,7 @@ export function Home () {
     <Container>
       <section className="intro">
         <h1>Mundo Nerd?</h1>
-        <h1>Nerd</h1>
+        <h1>Naped</h1>
         <p>O Naped pode ser sua fonte de informações sobre o mundo nerd e outros assuntos relacionados.</p>
       </section>
       <section className="destaques">
